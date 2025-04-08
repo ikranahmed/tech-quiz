@@ -1,5 +1,5 @@
 # 19 Testing: Tech Quiz Test Suite
-
+## Walkthrough Video: https://www.loom.com/share/822b4b7cf9fa4c82a0810df8f35e58f8?sid=9e31bb6f-1317-4acc-a9b0-de86115ead66 
 ## Your Task
 
 Your assignment this week underscores the importance of ensuring reliability and robustness in modern web applications through comprehensive testing. In today's dynamic development environment, testing is not just an afterthought but a critical part of the development process that ensures applications meet user demands and perform efficiently under various conditions.
